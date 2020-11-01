@@ -1,0 +1,100 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-image-1 {
+  width: 816px;
+  height: 527px;
+  margin: 37px auto 0 162px;
+}
+
+.u-section-1 .u-text-1 {
+  background-image: none;
+  font-family: "Averia Serif Libre";
+  width: 737px;
+  margin: -120px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 73px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 152px;
+    margin-left: 51px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 465px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
+    margin-top: -58px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 349px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    margin-top: 58px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 220px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: "Averia Serif Libre";
+  width: 749px;
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-size: 1rem;
+  background-image: none;
+  font-family: "Averia Serif Libre";
+  margin: 30px auto 60px;
+  padding: 27px 74px 29px 73px;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+}
